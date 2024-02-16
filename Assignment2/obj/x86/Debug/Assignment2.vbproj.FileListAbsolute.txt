@@ -1,0 +1,9 @@
+E:\Lab\software-engg\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+E:\Lab\software-engg\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+E:\Lab\software-engg\Assignment2\Assignment2\bin\Debug\Assignment2.xml
+E:\Lab\software-engg\Assignment2\Assignment2\obj\x86\Debug\Assignment2.Resources.resources
+E:\Lab\software-engg\Assignment2\Assignment2\obj\x86\Debug\Assignment2.vbproj.GenerateResource.Cache
+E:\Lab\software-engg\Assignment2\Assignment2\obj\x86\Debug\Assignment2.exe
+E:\Lab\software-engg\Assignment2\Assignment2\obj\x86\Debug\Assignment2.xml
+E:\Lab\software-engg\Assignment2\Assignment2\obj\x86\Debug\Assignment2.pdb
+E:\Lab\software-engg\Assignment2\Assignment2\obj\x86\Debug\Assignment2.Form1.resources
