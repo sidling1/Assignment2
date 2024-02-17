@@ -192,7 +192,7 @@ Public Class Form1
             Dim sum As Integer = array1(i) + array2(i) + carry
             resultArray(i) = sum Mod 10
             carry = sum \ 10
-            UpdateCol(resultArray(j), "result" + i)
+            UpdateCol(resultArray(i), "result" + i)
             UpdateCol(carry, "result" + i - 1)
 
         Next
