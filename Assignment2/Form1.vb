@@ -10,6 +10,7 @@ Public Class Form1
 
 
     Private Sub Form1_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
+        Me.AutoScroll = True
         ' Create a new ShapeContainer
         Dim shapeContainer As New ShapeContainer()
         Me.Controls.Add(shapeContainer)
