@@ -36,7 +36,55 @@ Public Class Form1
                     'l with the specified name {ovalName} was not found or is not an OvalShape.")
                 End If
             Next
+
         Next
+        For i As Integer = 0 To 7
+            ' Loop through the beads in each column (j)
+            For j As Integer = 0 To 4
+                ' Create the ovalName using String.Format
+                Dim ovalName As String = String.Format("input2{0}{1}", i, j)
+
+                ' Find the OvalShape control by name using LINQ
+                Dim ovalControls = Me.Controls.Find(ovalName, True).OfType(Of OvalShape)()
+
+                ' Check if the control with the specified name exists and is OvalShape
+                If ovalControls.Any() Then
+                    ' Use the first OvalShape found (assuming there's only one)
+                    Dim beadShape As OvalShape = ovalControls.First()
+
+                    ' Add the OvalShape to the ShapeContainer
+                    shapeContainer.Shapes.Add(beadShape)
+                Else
+                    ' Handle the case where the control is not found or not OvalShape
+                    'l with the specified name {ovalName} was not found or is not an OvalShape.")
+                End If
+            Next
+
+        Next
+        For i As Integer = 0 To 7
+            ' Loop through the beads in each column (j)
+            For j As Integer = 0 To 4
+                ' Create the ovalName using String.Format
+                Dim ovalName As String = String.Format("result{0}{1}", i, j)
+
+                ' Find the OvalShape control by name using LINQ
+                Dim ovalControls = Me.Controls.Find(ovalName, True).OfType(Of OvalShape)()
+
+                ' Check if the control with the specified name exists and is OvalShape
+                If ovalControls.Any() Then
+                    ' Use the first OvalShape found (assuming there's only one)
+                    Dim beadShape As OvalShape = ovalControls.First()
+
+                    ' Add the OvalShape to the ShapeContainer
+                    shapeContainer.Shapes.Add(beadShape)
+                Else
+                    ' Handle the case where the control is not found or not OvalShape
+                    'l with the specified name {ovalName} was not found or is not an OvalShape.")
+                End If
+            Next
+
+        Next
+
     End Sub
     Private Sub MoveBeadUp(ByVal ovalName As String)
         ' Find the OvalShape control by name using LINQ
