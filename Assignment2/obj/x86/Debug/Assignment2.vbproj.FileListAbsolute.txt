@@ -6,4 +6,11 @@ E:\Lab\software-engg\Assignment2\Assignment2\obj\x86\Debug\Assignment2.vbproj.Ge
 E:\Lab\software-engg\Assignment2\Assignment2\obj\x86\Debug\Assignment2.exe
 E:\Lab\software-engg\Assignment2\Assignment2\obj\x86\Debug\Assignment2.xml
 E:\Lab\software-engg\Assignment2\Assignment2\obj\x86\Debug\Assignment2.pdb
-E:\Lab\software-engg\Assignment2\Assignment2\obj\x86\Debug\Assignment2.Form1.resources
+E:\Lab\software-engg\Assignment2\Assignment2\obj\x86\Debug\Assignment2.Abacus.resources
+E:\Lab\software-engg\Assignment2\Assignment2\obj\x86\Debug\Assignment2.Homepage.resources
+E:\Lab\software-engg\Assignment2\Assignment2\obj\x86\Debug\Assignment2.BasicMath.resources
+E:\Lab\software-engg\Assignment2\Assignment2\obj\x86\Debug\Assignment2.Form2.resources
+E:\Lab\software-engg\Assignment2\Assignment2\obj\x86\Debug\Assignment2.Video.resources
+E:\Lab\software-engg\Assignment2\Assignment2\obj\x86\Debug\Assignment2.MathQz.resources
+E:\Lab\software-engg\Assignment2\Assignment2\obj\x86\Debug\Assignment2.PzlQzHome.resources
+E:\Lab\software-engg\Assignment2\Assignment2\obj\x86\Debug\Assignment2.ShapeQz.resources
