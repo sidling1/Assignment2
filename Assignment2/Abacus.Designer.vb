@@ -2078,7 +2078,7 @@ Partial Class Abacus
         Me.enterbtn1.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(192, Byte), Integer))
         Me.enterbtn1.ForeColor = System.Drawing.SystemColors.ActiveCaptionText
         Me.enterbtn1.Location = New System.Drawing.Point(625, 134)
-        Me.enterbtn1.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.enterbtn1.Margin = New System.Windows.Forms.Padding(4)
         Me.enterbtn1.Name = "enterbtn1"
         Me.enterbtn1.Size = New System.Drawing.Size(116, 28)
         Me.enterbtn1.TabIndex = 6
@@ -2090,7 +2090,7 @@ Partial Class Abacus
         Me.enterbtn2.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(192, Byte), Integer))
         Me.enterbtn2.ForeColor = System.Drawing.SystemColors.ActiveCaptionText
         Me.enterbtn2.Location = New System.Drawing.Point(625, 418)
-        Me.enterbtn2.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.enterbtn2.Margin = New System.Windows.Forms.Padding(4)
         Me.enterbtn2.Name = "enterbtn2"
         Me.enterbtn2.Size = New System.Drawing.Size(116, 28)
         Me.enterbtn2.TabIndex = 7
@@ -2102,7 +2102,7 @@ Partial Class Abacus
         Me.clearbtn1.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(192, Byte), Integer))
         Me.clearbtn1.ForeColor = System.Drawing.SystemColors.ActiveCaptionText
         Me.clearbtn1.Location = New System.Drawing.Point(625, 203)
-        Me.clearbtn1.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.clearbtn1.Margin = New System.Windows.Forms.Padding(4)
         Me.clearbtn1.Name = "clearbtn1"
         Me.clearbtn1.Size = New System.Drawing.Size(116, 32)
         Me.clearbtn1.TabIndex = 8
@@ -2114,7 +2114,7 @@ Partial Class Abacus
         Me.clrbtn2.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(192, Byte), Integer))
         Me.clrbtn2.ForeColor = System.Drawing.SystemColors.ActiveCaptionText
         Me.clrbtn2.Location = New System.Drawing.Point(625, 489)
-        Me.clrbtn2.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.clrbtn2.Margin = New System.Windows.Forms.Padding(4)
         Me.clrbtn2.Name = "clrbtn2"
         Me.clrbtn2.Size = New System.Drawing.Size(116, 32)
         Me.clrbtn2.TabIndex = 9
@@ -2126,7 +2126,7 @@ Partial Class Abacus
         Me.addnbtn.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(192, Byte), Integer))
         Me.addnbtn.ForeColor = System.Drawing.SystemColors.ActiveCaptionText
         Me.addnbtn.Location = New System.Drawing.Point(155, 625)
-        Me.addnbtn.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.addnbtn.Margin = New System.Windows.Forms.Padding(4)
         Me.addnbtn.Name = "addnbtn"
         Me.addnbtn.Size = New System.Drawing.Size(132, 46)
         Me.addnbtn.TabIndex = 10
@@ -2138,7 +2138,7 @@ Partial Class Abacus
         Me.subtrctnbtn.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(192, Byte), Integer))
         Me.subtrctnbtn.ForeColor = System.Drawing.SystemColors.ActiveCaptionText
         Me.subtrctnbtn.Location = New System.Drawing.Point(320, 625)
-        Me.subtrctnbtn.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.subtrctnbtn.Margin = New System.Windows.Forms.Padding(4)
         Me.subtrctnbtn.Name = "subtrctnbtn"
         Me.subtrctnbtn.Size = New System.Drawing.Size(116, 46)
         Me.subtrctnbtn.TabIndex = 11
@@ -2150,7 +2150,7 @@ Partial Class Abacus
         Me.resetbtn.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(192, Byte), Integer))
         Me.resetbtn.ForeColor = System.Drawing.SystemColors.ActiveCaptionText
         Me.resetbtn.Location = New System.Drawing.Point(480, 625)
-        Me.resetbtn.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.resetbtn.Margin = New System.Windows.Forms.Padding(4)
         Me.resetbtn.Name = "resetbtn"
         Me.resetbtn.Size = New System.Drawing.Size(113, 46)
         Me.resetbtn.TabIndex = 12
@@ -2199,7 +2199,7 @@ Partial Class Abacus
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.ShapeContainer1)
         Me.ForeColor = System.Drawing.SystemColors.ControlLightLight
-        Me.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
+        Me.Margin = New System.Windows.Forms.Padding(4)
         Me.Name = "Abacus"
         Me.Text = "Abacus"
         Me.ResumeLayout(False)
